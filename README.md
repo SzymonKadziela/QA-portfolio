@@ -9,10 +9,15 @@
  * [BlazeMeter](https://www.blazemeter.com) - Load testing platform, enabel to record a scenario and save to .jmx format.
  * [Jmeter](https://jmeter.apache.org) - is an Apache project that can be used as a load testing tool for analyzing and measuring the performance of a variety of services, with a focus on web applications.
  * [Amazon Web Services](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=categories%23compute&trk=d61d379a-1c91-4913-a735-615e397fbb91&sc_channel=ps&ef_id=CjwKCAjw9cCyBhBzEiwAJTUWNTk27pf3QJmGFPVHGIkXefOPMwg-L9KUmmZWIzd4O1GCpN_NGN5wOBoCe78QAvD_BwE:G:s&s_kwcid=AL!4422!3!645251220188!e!!g!!amazon%20cloud!19579892539!148952139527&gclid=CjwKCAjw9cCyBhBzEiwAJTUWNTk27pf3QJmGFPVHGIkXefOPMwg-L9KUmmZWIzd4O1GCpN_NGN5wOBoCe78QAvD_BwE) - platform for running performance tests
+ * [Jenkins](https://www.jenkins.io)
  * [InfluxDB](https://www.influxdata.com) - Database for storing performance test results
  * [Grafana](https://grafana.com) - Dashboards for displaying performance test results
  * [Greenshot](https://getgreenshot.org) - Screen capture software.
  * [TestFlight](https://developer.apple.com/testflight/), [AppDistribution](https://firebase.google.com/docs/app-distribution/android/distribute-cli) - mobile applications for downloading test versions of tested applications
+ * [Cypress](https://www.cypress.io) - is a frontend test automation tool for regression testing of web applications.
+ * [NightWatch](https://appium.io/docs/en/latest/) - No-compromise test automation framework with a powerful set of tools to write, run and debug your tests across web and native mobile applications.
+ * [Appium](https://appium.io/docs/en/latest/) - is an open source automation tool for running scripts and testing native applications, mobile-web applications and hybrid applications on Android or iOS using a webdriver.
+   
 
 # Tech skills
   * Scrum and Agile
@@ -40,7 +45,8 @@
  * GeekON
  * Medium.com
  * blazemeter.com
-
+ * www.passmark.com
+   
 
 # My test documentation
   * [Jmeter scenarios](https://drive.google.com/drive/folders/1VbUA1_9pryvsHHpIEj2FlRLlAC1vx6Ze?usp=sharing)
