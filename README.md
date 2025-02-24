@@ -50,5 +50,6 @@
 
 # My test documentation
   * [Jmeter scenarios](https://drive.google.com/drive/folders/1VbUA1_9pryvsHHpIEj2FlRLlAC1vx6Ze?usp=sharing)
+  * [Groovy scripts](https://drive.google.com/drive/folders/1LUx80WqlPOYByNLxZiWcXdw0YyfGr3FU?usp=sharing)
   * [Test case examples](https://drive.google.com/drive/folders/1ykFjk_OkK3DIp8_4enfjkPLpGkGjK1cD?usp=sharing)
   * [My bug reports](https://drive.google.com/drive/folders/1wLKdpWsHUT1lipvfICXlMR8ol1oMqG0S?usp=sharing)
