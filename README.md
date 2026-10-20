@@ -18,6 +18,8 @@
  * [NightWatch](https://appium.io/docs/en/latest/) - No-compromise test automation framework with a powerful set of tools to write, run and debug your tests across web and native mobile applications.
  * [Appium](https://appium.io/docs/en/latest/) - is an open source automation tool for running scripts and testing native applications, mobile-web applications and hybrid applications on Android or iOS using a webdriver.
  * [Playwright](https://playwright.dev) - enables reliable web automation for testing, scripting, and AI agents.
+ * [PyTest](https://docs.pytest.org/en/stable/) - framework makes it easy to write small, readable tests, and can scale to support complex functional testing for applications and libraries.
+ * [Burp Suite](https://portswigger.net/burp/communitydownload) - web security testing journey.
    
 
 # Tech skills
